@@ -1,0 +1,1 @@
+docker build . -t finops-metadata-rest-server

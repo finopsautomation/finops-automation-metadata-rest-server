@@ -1,0 +1,35 @@
+management:
+  endpoints:
+    web:
+      base-path: /rest/actuator
+      exposure:
+        include: '*'
+
+springdoc:
+  swagger-ui:
+    display-request-duration: true
+    groups-order: DESC
+    operationsSorter: method
+    disable-swagger-default-url: true
+    use-root-path: true
+  show-actuator: true
+  cache:
+    disabled: true
+
+spring:
+  profiles:
+    active: cldy, storage-aws-ddb
+    #active: aws
+
+server:
+  port: 8081
+  forward-headers-strategy: framework
+  servlet:
+     context-path: /api # Root path for REST Controllers
+
+logging:
+  level:
+    # org: DEBUG
+    # org.springframework.web: DEBUG
+    finopsautomation: DEBUG
+

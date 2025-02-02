@@ -1,0 +1,236 @@
+﻿providerType,serviceID,serviceName,normalizedServiceName
+AWS,A4B,Amazon Alexa for Business,AWS Alexa for Business
+AWS,AWSAmplify,AWS Amplify,AWS Amplify
+AWS,AWSAppFabric,AWS AppFabric,AWS AppFabric
+AWS,AWSAppRunner,AWS App Runner,AWS App Runner
+AWS,AWSAppStudio,AWS App Studio,AWS App Studio
+AWS,AWSAppSync,AWS AppSync,AWS AppSync
+AWS,AWSApplicationMigrationSvc,AWS Application Migration Service,AWS Application Migration Service (MGN)
+AWS,AWSB2Bi,AWS B2B Data Interchange,AWS B2B Data Interchange
+AWS,AWSBCMPricingCalculator,AWS BCM Pricing Calculator,AWS BCM Pricing Calculator
+AWS,AWSBackup,AWS Backup,AWS Backup
+AWS,AWSBillingConductor,AWS Billing Conductor,AWS Billing Conductor
+AWS,AWSBudgets,AWS Budgets,AWS Budgets
+AWS,AWSCertificateManager,AWS Certificate Manager,AWS Certificate Manager
+AWS,AWSCleanRooms,AWS Clean Rooms,AWS Clean Rooms
+AWS,AWSCloudFormation,AWS CloudFormation,AWS CloudFormation
+AWS,AWSCloudMap,AWS Cloud Map,AWS Cloud Map
+AWS,AWSCloudTrail,AWS CloudTrail,AWS CloudTrail
+AWS,AWSCloudWAN,AWS Cloud WAN,AWS Cloud WAN
+AWS,AWSCodeArtifact,AWS CodeArtifact,AWS CodeArtifact
+AWS,AWSCodeCommit,AWS CodeCommit,AWS CodeCommit
+AWS,AWSCodeDeploy,AWS CodeDeploy,AWS CodeDeploy
+AWS,AWSCodePipeline,AWS CodePipeline,AWS CodePipeline
+AWS,AWSComputeOptimizer,AWS Compute Optimizer,AWS Compute Optimizer
+AWS,AWSConfig,AWS Config,AWS Config
+AWS,AWSCostExplorer,AWS Cost Explorer,AWS Cost Explorer
+AWS,AWSDataExchange,AWS Data Exchange,AWS Data Exchange
+AWS,AWSDataSync,AWS DataSync,AWS DataSync
+AWS,AWSDataTransfer,AWS Data Transfer Service,AWS Data Transfer Service
+AWS,AWSDatabaseMigrationSvc,AWS Database Migration Service,AWS Database Migration Service (DMS)
+AWS,AWSDeepRacer,AWS DeepRacer,AWS DeepRacer
+AWS,AWSDeveloperSupport,AWS Developer Support,AWS Developer Support
+AWS,AWSDeviceFarm,AWS Device Farm,AWS Device Farm
+AWS,AWSDirectConnect,AWS Direct Connect,AWS Direct Connect
+AWS,AWSDirectoryService,AWS Directory Service,AWS Directory Service
+AWS,AWSELB,AWS Elastic Load Balancing,AWS Elastic Load Balancing (ELB)
+AWS,AWSElasticDisasterRecovery,AWS Elastic Disaster Recovery,AWS Elastic Disaster Recovery
+AWS,AWSElementalMediaConvert,AWS Elemental Media Convert,AWS Elemental Media Convert
+AWS,AWSElementalMediaLive,AWS Elemental Media Live,AWS Elemental Media Live
+AWS,AWSElementalMediaPackage,AWS Elemental Media Package,AWS Elemental Media Package
+AWS,AWSElementalMediaStore,AWS Elemental Media Store,AWS Elemental Media Store
+AWS,AWSElementalMediaTailor,AWS Elemental Media Tailor,AWS Elemental Media Tailor
+AWS,AWSEndUserMessaging3pFees,AWS End User Messaging 3p Fees,AWS End User Messaging 3p Fees
+AWS,AWSEnterpriseOnRamp,AWS Enterprise On-Ramp,AWS Enterprise On-Ramp
+AWS,AWSEntityResolution,AWS Entity Resolution,AWS Entity Resolution
+AWS,AWSEvents,AWS Events,AWS Events
+AWS,AWSFIS,AWS Fault Injection Service,AWS Fault Injection Service (FIS)
+AWS,AWSFMS,AWS Firewall Manager,AWS Firewall Manager
+AWS,AWSGlobalAccelerator,AWS Global Accelerator,AWS Global Accelerator
+AWS,AWSGlueElasticViews,AWS Glue Elastic Views,AWS Glue Elastic Views
+AWS,AWSGlue,AWS Glue,AWS Glue
+AWS,AWSGreengrass,AWS Greengrass,AWS Greengrass
+AWS,AWSGroundStation,AWS Ground Station,AWS Ground Station
+AWS,AWSIAMAccessAnalyzer,AWS IAM Access Analyzer,AWS IAM Access Analyzer
+AWS,AWSIoT1Click,AWS IoT 1 Click,AWS IoT 1 Click
+AWS,AWSIoTAnalytics,AWS IoT Analytics,AWS IoT Analytics
+AWS,AWSIoTEvents,AWS IoT Events,AWS IoT Events
+AWS,AWSIoTFleetWise,AWS IoT FleetWise,AWS IoT FleetWise
+AWS,AWSIoTSiteWise,AWS IoT SiteWise,AWS IoT SiteWise
+AWS,AWSIoTThingsGraph,AWS IoT Things Graph,AWS IoT Things Graph
+AWS,AWSIoT,AWS IoT,AWS IoT
+AWS,AWSLakeFormation,AWS LakeFormation,AWS LakeFormation
+AWS,AWSLambda,AWS Lambda,AWS Lambda
+AWS,AWSM2,AWS Mainframe Modernization Service,AWS Mainframe Modernization Service
+AWS,AWSMDC,AWS Modular Data Center,AWS Modular Data Center
+AWS,AWSMediaConnect,AWS Media Connect,AWS Media Connect
+AWS,AWSMigrationHubRefactorSpaces,AWS Migration Hub Refactor Spaces,AWS Migration Hub Refactor Spaces
+AWS,AWSNetworkFirewall,AWS Network Firewall,AWS Network Firewall
+AWS,AWSOutposts,AWS Outposts,AWS Outposts
+AWS,AWSPCS,AWS Parallel Computing Service,AWS Parallel Computing Service
+AWS,AWSPrivate5G,AWS Private 5G,AWS Private 5G
+AWS,AWSQueueService,AWS Queue Service,AWS Queue Service (SQS)
+AWS,AWSR53AppRecoveryController,AWS R53 App Recovery Controller,AWS R53 App Recovery Controller
+AWS,AWSResilienceHub,AWS Resilience Hub,AWS Resilience Hub
+AWS,AWSRoboMaker,AWS RoboMaker,AWS RoboMaker
+AWS,AWSSecretsManager,AWS Secrets Manager,AWS Secrets Manager
+AWS,AWSSecurityHub,AWS Security Hub,AWS Security Hub
+AWS,AWSServiceCatalog,AWS Service Catalog,AWS Service Catalog
+AWS,AWSShield,AWS Shield,AWS Shield
+AWS,AWSStorageGatewayDeepArchive,AWS Storage Gateway Deep Archive,AWS Storage Gateway Deep Archive
+AWS,AWSStorageGateway,AWS Storage Gateway,AWS Storage Gateway
+AWS,AWSSupplyChain,AWS Supply Chain,AWS Supply Chain
+AWS,AWSSupportBusiness,AWS Support Business,AWS Support Business
+AWS,AWSSupportEnterprise,AWS Support Enterprise,AWS Support Enterprise
+AWS,AWSSystemsManager,AWS Systems Manager,AWS Systems Manager (SSM)
+AWS,AWSTelcoNetworkBuilder,AWS Telco Network Builder,AWS Telco Network Builder
+AWS,AWSTransfer,AWS Transfer,AWS Transfer
+AWS,AWSWickr,AWS Wickr,AWS Wickr
+AWS,AWSWisdom,AWS Wisdom,AWS Wisdom
+AWS,AWSXRay,AWS X-Ray,AWS X-Ray
+AWS,AlexaTopSites,Alexa Top Sites,AWS Alexa Top Sites
+AWS,AlexaWebInfoService,Alexa Web Info Service,AWS Alexa Web Info Service
+AWS,AmazonA2I,Amazon A2I,AWS Augmented AI
+AWS,AmazonApiGateway,Amazon API Gateway,AWS API Gateway
+AWS,AmazonAppStream,Amazon AppStream,AWS AppStream
+AWS,AmazonAthena,Amazon Athena,AWS Athena
+AWS,AmazonBedrock,Amazon Bedrock,AWS Bedrock
+AWS,AmazonBraket,Amazon Braket,AWS Braket
+AWS,AmazonChimeBusinessCalling,Amazon Chime Business Calling,AWS Chime Business Calling
+AWS,AmazonChimeCallMeAMCS,Amazon Chime Call Me AMCS,AWS Chime Call Me AMCS
+AWS,AmazonChimeCallMe,Amazon Chime Call Me,AWS Chime Call Me
+AWS,AmazonChimeDialInAMCS,Amazon Chime Dial In AMCS,AWS Chime Dial In AMCS
+AWS,AmazonChimeDialin,Amazon ChimeDialin,AWS Chime Dialin
+AWS,AmazonChimeFeatures,Amazon Chime Features,AWS Chime Features
+AWS,AmazonChimeServices,Amazon Chime Services,AWS Chime Services
+AWS,AmazonChimeVoiceConnector,Amazon Chime Voice Connector,AWS Chime Voice Connector
+AWS,AmazonChime,Amazon Chime,AWS Chime
+AWS,AmazonCloudDirectory,Amazon Cloud Directory,AWS Cloud Directory
+AWS,AmazonCloudFront,Amazon CloudFront,AWS CloudFront
+AWS,AmazonCloudSearch,Amazon CloudSearch,AWS CloudSearch
+AWS,AmazonCloudWatch,Amazon CloudWatch,AWS CloudWatch
+AWS,AmazonCodeWhisperer,Amazon Code Whisperer,AWS CodeWhisperer
+AWS,AmazonCognitoSync,Amazon Cognito Sync,AWS Cognito Sync
+AWS,AmazonCognito,Amazon Cognito,AWS Cognito
+AWS,AmazonConnectCases,Amazon Connect Cases,AWS Connect Cases
+AWS,AmazonConnectVoiceID,Amazon Connect Voice ID,AWS Connect VoiceID
+AWS,AmazonConnect,Amazon Connect,AWS Connect
+AWS,AmazonDAX,Amazon DynamoDB Accelerator,AWS DynamoDB Accelerator (DAX)
+AWS,AmazonDataZone,Amazon DataZone,AWS DataZone
+AWS,AmazonDeadline,Amazon Deadline,AWS Deadline
+AWS,AmazonDetective,Amazon Detective,AWS Detective
+AWS,AmazonDevOpsGuru,Amazon DevOpsGuru,AWS DevOpsGuru
+AWS,AmazonDocDB,Amazon DocumentDB,AWS DocumentDB
+AWS,AmazonDynamoDB,Amazon DynamoDB,AWS DynamoDB (DDB)
+AWS,AmazonEC2,Amazon Elastic Compute Cloud,AWS Elastic Compute Cloud (EC2)
+AWS,AmazonECRPublic,Amazon Elastic Container Registry Public,AWS Elastic Container Registry Public
+AWS,AmazonECR,Amazon ECR,AWS Elastic Container Registry (ECR)
+AWS,AmazonECS,Amazon ECS,AWS Elastic Container Service (ECS)
+AWS,AmazonEFS,Amazon EFS,AWS Elastic File System (EFS)
+AWS,AmazonEI,Amazon Elastic Inference,AWS Elastic Inference
+AWS,AmazonEKSAnywhere,Amazon EKS Anywhere,AWS EKS Anywhere
+AWS,AmazonEKS,Amazon EKS,AWS Elastic Kubernetes Service (EKS)
+AWS,AmazonES,Amazon Elasticsearch,AWS Elasticsearch
+AWS,AmazonETS,Amazon ETS,AWS ETS
+AWS,AmazonElastiCache,Amazon ElastiCache,AWS ElastiCache
+AWS,AmazonFSx,Amazon FSx,AWS FSx
+AWS,AmazonFinSpace,Amazon FinSpace,AWS FinSpace
+AWS,AmazonForecast,Amazon Forecast,AWS Forecast
+AWS,AmazonFraudDetector,Amazon Fraud Detector,AWS Fraud Detector
+AWS,AmazonGameLift,Amazon GameLift,AWS GameLift
+AWS,AmazonGlacier,Amazon Glacier,AWS Glacier
+AWS,AmazonGrafana,Amazon Managed Grafana,AWS Managed Grafana
+AWS,AmazonGuardDuty,Amazon GuardDuty,AWS GuardDuty
+AWS,AmazonHealthLake,Amazon HealthLake,AWS HealthLake
+AWS,AmazonHoneycode,Amazon Honeycode,AWS Honeycode
+AWS,AmazonIVSChat,Amazon Interactive Video Service Chat,AWS Interactive Video Service Chat
+AWS,AmazonIVS,Amazon Interactive Video Service,AWS Interactive Video Service (IVS)
+AWS,AmazonInspectorV2,Amazon Inspector V2,AWS Inspector V2
+AWS,AmazonInspector,Amazon Inspector,AWS Inspector
+AWS,AmazonKendra,Amazon Kendra,AWS Kendra
+AWS,AmazonKinesisAnalytics,Amazon Kinesis Analytics,AWS Kinesis Analytics
+AWS,AmazonKinesisFirehose,Amazon Kinesis Firehose,AWS Kinesis Firehose
+AWS,AmazonKinesisVideo,Amazon Kinesis Video,AWS Kinesis Video
+AWS,AmazonKinesis,Amazon Kinesis,AWS Kinesis
+AWS,AmazonLex,Amazon Lex,AWS Lex
+AWS,AmazonLightsail,Amazon Lightsail,AWS Lightsail
+AWS,AmazonLocationService,Amazon Location Service,AWS Location Service
+AWS,AmazonLookoutEquipment,Amazon Lookout Equipment,AWS Lookout Equipment
+AWS,AmazonLookoutMetrics,Amazon Lookout Metrics,AWS Lookout Metrics
+AWS,AmazonLookoutVision,Amazon Lookout Vision,AWS Lookout Vision
+AWS,AmazonMCS,Amazon Managed Apache Cassandra Service,AWS Managed Apache Cassandra Service (MCS)
+AWS,AmazonML,Amazon Machine Learning,AWS Machine Learning
+AWS,AmazonMQ,Amazon MQ,AWS MQ
+AWS,AmazonMSK,Amazon Managed Streaming for Apache Kafka,AWS Managed Streaming for Apache Kafka (MSK)
+AWS,AmazonMWAA,Amazon Managed Workflows for Apache Airflow,AWS Managed Workflows for Apache Airflow (MWAA)
+AWS,AmazonMacie,Amazon Macie,AWS Macie
+AWS,AmazonManagedBlockchain,Amazon Managed Blockchain,AWS Managed Blockchain
+AWS,AmazonMedicalImaging,Amazon Medical Imaging,AWS Medical Imaging
+AWS,AmazonMemoryDB,Amazon MemoryDB,AWS MemoryDB
+AWS,AmazonMonitron,Amazon Monitron,AWS Monitron
+AWS,AmazonNeptune,Amazon Neptune,AWS Neptune
+AWS,AmazonOmics,Amazon Omics,AWS Omics
+AWS,AmazonPersonalize,Amazon Personalize,AWS Personalize
+AWS,AmazonPinpoint,Amazon Pinpoint,AWS Pinpoint
+AWS,AmazonPolly,Amazon Polly,AWS Polly
+AWS,AmazonPrometheus,Amazon Managed Service for Prometheus,AWS Managed Service for Prometheus
+AWS,AmazonQLDB,Amazon QLDB,AWS QLDB
+AWS,AmazonQ,Amazon Q,AWS Q
+AWS,AmazonQuickSight,Amazon QuickSight,AWS QuickSight
+AWS,AmazonRDS,Amazon Relational Database Service,AWS Relational Database Service (RDS)
+AWS,AmazonRedshift,Amazon Redshift,AWS Redshift
+AWS,AmazonRekognition,Amazon Rekognition,AWS Rekognition
+AWS,AmazonRoute53,Amazon Route 53,AWS Route 53
+AWS,AmazonS3GlacierDeepArchive,Amazon S3 Glacier Deep Archive,AWS S3 Glacier Deep Archive
+AWS,AmazonS3,Amazon Simple Storage Service,AWS Simple Storage Service (S3)
+AWS,AmazonSES,Amazon Simple Email Service,AWS Simple Email Service (SES)
+AWS,AmazonSNS,Amazon Simple Notification Service,AWS Simple Notification Service (SNS)
+AWS,AmazonSWF,Amazon Simple Workflow Service,AWS Simple Workflow Service (SWF)
+AWS,AmazonSageMaker,Amazon SageMaker,AWS SageMaker
+AWS,AmazonSecurityLake,Amazon Security Lake,AWS Security Lake
+AWS,AmazonSimpleDB,Amazon SimpleDB,AWS SimpleDB
+AWS,AmazonStates,Amazon States,AWS States
+AWS,AmazonSumerian,Amazon Sumerian,AWS Sumerian
+AWS,AmazonTextract,Amazon Textract,AWS Textract
+AWS,AmazonTimestream,Amazon Timestream,AWS Timestream
+AWS,AmazonVPC,Amazon Virtual Private Cloud,AWS Virtual Private Cloud (VPC)
+AWS,AmazonVerifiedPermissions,Amazon Verified Permissions,AWS Verified Permissions
+AWS,AmazonWAM,Amazon WorkSpaces Application Manager,AWS WorkSpaces Application Manager (WAM)
+AWS,AmazonWorkDocs,Amazon WorkDocs,AWS WorkDocs
+AWS,AmazonWorkLink,Amazon WorkLink,AWS WorkLink
+AWS,AmazonWorkMail,Amazon WorkMail,AWS WorkMail
+AWS,AmazonWorkSpacesThinClient,Amazon WorkSpaces Thin Client,AWS WorkSpaces Thin Client
+AWS,AmazonWorkSpacesWeb,Amazon WorkSpaces Web,AWS WorkSpaces Web
+AWS,AmazonWorkSpaces,Amazon WorkSpaces,AWS WorkSpaces
+AWS,AppFlow,Amazon App Flow,AWS AppFlow
+AWS,CloudHSM,AWS CloudHSM,AWS CloudHSM
+AWS,CodeBuild,AWS CodeBuild,AWS CodeBuild
+AWS,CodeCatalyst,Amazon CodeCatalyst,AWS CodeCatalyst
+AWS,CodeGuru,Amazon CodeGuru Security,AWS CodeGuru Security
+AWS,ContactCenterTelecommKR,Contact Center Telecomm KR,AWS Contact Center Telecomm KR
+AWS,ContactCenterTelecommZA,Contact Center Telecomm ZA,AWS Contact Center Telecomm ZA
+AWS,ContactCenterTelecomm,Contact Center Telecomm, AWSContact Center Telecomm
+AWS,ContactLensAmazonConnect,Contact Lens Amazon Connect,AWS Contact Lens Amazon Connect
+AWS,CustomerProfiles,Customer Profiles,AWS Customer Profiles
+AWS,ElasticMapReduce,Amazon Elastic Map Reduce,AWS Elastic Map Reduce (EMR)
+AWS,IngestionServiceSnowball,Ingestion Service Snowball,AWS Ingestion Service Snowball
+AWS,IngestionService,Ingestion Service,AWS Ingestion Service
+AWS,IoTDeviceDefender,IoT Device Defender,AWS IoT Device Defender
+AWS,IoTDeviceManagement,IoT Device Management,AWS IoT Device Management
+AWS,IoTTwinMaker,IoT Twin Maker,AWS IoT Twin Maker
+AWS,OpsWorks,AWS OpsWorks,AWS OpsWorks
+AWS,PaymentCryptography,Payment Cryptography,AWS Payment Cryptography
+AWS,SimSpaceWeaver,SimSpace Weaver,AWS SimSpace Weaver
+AWS,SnowballExtraDays,Snowball Extra Days,AWS Snowball Extra Days
+AWS,VMwareCloudOnAWS,VMware Cloud On AWS,AWS VMware Cloud On AWS
+AWS,auditmanager,AWS Audit Manager,AWS Audit Manager
+AWS,awskms,AWS Key Management Service,AWS Key Management Service (KMS)
+AWS,awswaf,AWS Web Application Firewall,AWS Web Application Firewall (WAF)
+AWS,comprehend,Amazon Comprehend,AWS Comprehend
+AWS,comprehendmedical,Amazon Comprehend Medical,AWS Comprehend Medical
+AWS,datapipeline,AWS Data Pipeline,AWS Data Pipeline
+AWS,mobileanalytics,Amazon Mobile Analytics,AWS Mobile Analytics
+AWS,nimble,Amazon Nimble,AWS Nimble
+AWS,repostspace,AWS Repost Space,AWS Repost Space
+AWS,transcribe,Amazon Transcribe,AWS Transcribe
+AWS,translate,Amazon Translate,AWS Translate

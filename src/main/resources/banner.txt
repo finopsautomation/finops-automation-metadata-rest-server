@@ -1,0 +1,6 @@
+${application.title} ${application.version}
+
+Active profile: ${spring.profiles.active}
+
+Running on port: ${server.port}
+

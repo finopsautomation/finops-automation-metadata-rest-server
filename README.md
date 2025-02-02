@@ -9,6 +9,40 @@ A simple REST solution for tracking provider accounts, portfolios and contact de
 
 Download the latest release package and execute the JAR file.
 
+## Data attributes
+
+```mermaid
+erDiagram
+    AccountDefinition {
+        String AccountID PK "Native provider account identifier"
+        String ProviderType PK "Provider of account"
+        String BillingAccountID "Identifier of billing account"
+        String AccountName "Name of account"
+        String FriendlyAccountName "Human friendly name assigned to account"
+        String LinkedAccountID "Optional linked account identifier"
+        Date ProvisionDate "When was the account created or provisioned?"
+        Date DecommissionDate "When was the account disabled?"
+        String AccountNotes "Ad-hoc notes for the account"
+        String TechnicalContactName "Technical Contact Name"
+        String TechnicalContactEmailAddress "Technical Email Address"
+        String BusinessContactName "Business Contact Name"
+        String BusinessContactEmailAddress "Business Email Address"
+    }
+
+    PortfolioDefinition {
+        String PortfolioID PK "Internal Identifier for the portfolio"
+        String PortfolioName "Public name of the portfolio"
+        String PortfolioNotes "Ad-hoc notes for the portfolio"
+        Date StartDate "When was the portfolio authorized for use?"
+        Date EndDate "When was the portfolio no longer authorized for use?"
+        String TechnicalContactName "Technical Contact Name"
+        String TechnicalContactEmailAddress "Technical Email Address"
+        String BusinessContactName "Business Contact Name"
+        String BusinessContactEmailAddress "Business Email Address"
+    }
+
+```
+
 ## Core Technology Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
